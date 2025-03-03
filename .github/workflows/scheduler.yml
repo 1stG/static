@@ -8,21 +8,30 @@ on:
     branches:
       - master
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
+      - run: npm i -g --force corepack && corepack enable
+
       - name: Set node
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
+          cache: yarn
 
-      - run: npx pnpm i
+      - run: |
+          yarn config unset npmRegistryServer
+          yarn
 
       - name: Update sponsors
-        run: npm run build
+        run: yarn build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ${{ secrets.SPONSORKIT_GITHUB_LOGIN }}
