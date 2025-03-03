@@ -45,6 +45,7 @@ export default defineConfig({
       preset: past,
     },
   ],
+  formats: ['png', 'svg'],
   async onSponsorsReady(sponsors) {
     await fs.writeFile(
       "sponsors.json",

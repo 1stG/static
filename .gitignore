@@ -5,4 +5,5 @@
 !.yarn/sdks
 !.yarn/versions
 node_modules
+sponors.*.json
 .env
