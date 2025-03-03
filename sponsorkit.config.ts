@@ -26,5 +26,6 @@ export default defineConfig({
       monthlyDollars: 500,
       preset: tierPresets.xl,
     },
-  ]
+  ],
+  includePastSponsors: true,
 })
