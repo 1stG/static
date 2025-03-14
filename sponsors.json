@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Matthias Wagler",
+    "login": "mattwagl",
+    "avatar": "https://avatars.githubusercontent.com/u/1268387?u=67e134c16f82b9326f18aacdd8a68c041b35510e&v=4",
+    "amount": 5,
+    "link": "https://github.com/mattwagl",
+    "org": false
+  },
+  {
     "name": "Frontend Masters",
     "login": "FrontendMasters",
     "avatar": "https://avatars.githubusercontent.com/u/5613852?v=4",
@@ -48,22 +56,6 @@
     "org": true
   },
   {
-    "name": "Hiroki Kokubun",
-    "login": "cocopon",
-    "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
-    "amount": -1,
-    "link": "https://github.com/cocopon",
-    "org": false
-  },
-  {
-    "name": "YuTengjing",
-    "login": "tjx666",
-    "avatar": "https://avatars.githubusercontent.com/u/41773861?u=7d437cf46b95c2ceb37cc35acb10103c4022f94b&v=4",
-    "amount": -1,
-    "link": "https://github.com/tjx666",
-    "org": false
-  },
-  {
     "name": "RxTS",
     "login": "rxts",
     "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
@@ -80,11 +72,35 @@
     "org": true
   },
   {
-    "name": "Matthias Wagler",
-    "login": "mattwagl",
-    "avatar": "https://avatars.githubusercontent.com/u/1268387?u=67e134c16f82b9326f18aacdd8a68c041b35510e&v=4",
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
     "amount": -1,
-    "link": "https://github.com/mattwagl",
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
+  },
+  {
+    "name": "ESLint",
+    "login": "eslint",
+    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint",
+    "org": true
+  },
+  {
+    "name": "Hiroki Kokubun",
+    "login": "cocopon",
+    "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
+    "amount": -1,
+    "link": "https://github.com/cocopon",
+    "org": false
+  },
+  {
+    "name": "YuTengjing",
+    "login": "tjx666",
+    "avatar": "https://avatars.githubusercontent.com/u/41773861?u=7d437cf46b95c2ceb37cc35acb10103c4022f94b&v=4",
+    "amount": -1,
+    "link": "https://github.com/tjx666",
     "org": false
   },
   {
@@ -110,21 +126,5 @@
     "amount": -1,
     "link": "https://github.com/marekvospel",
     "org": false
-  },
-  {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
-  },
-  {
-    "name": "ESLint",
-    "login": "eslint",
-    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint",
-    "org": true
   }
 ]
