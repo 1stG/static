@@ -1,4 +1,5 @@
 {
-  "extends": ["config:recommended"],
-  "forkProcessing": "enabled"
+  "extends": [
+    "github>1stG/configs"
+  ]
 }
