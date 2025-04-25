@@ -17,17 +17,17 @@ text {
 </style>
 <text x="900" y="40" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://syntax.fm" class="sponsorkit-link" target="_blank" id="syntaxfm">
   
-  <clipPath id="c0">
+  <clipPath id="c2">
     <rect x="825.5" y="65" width="35" height="35" rx="3.5" ry="3.5" />
   </clipPath>
-  <image x="825.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRuoDAABXRUJQVlA4IN4DAADQEgCdASoyADIAPm0slEYkIqIhLhkpyIANiWwAxxz/4Sxg7AHqA2zHmA8oD9gPcbvEHoAdKL/ff+TNf3vezN39f4PhBlBHHv6J3kWoFec+ZfeDd7eeHz084H0v/2/cJ/XHrQE8jxcFL472FMsUcya2bWTVRX8VBRWWoxsP/sckoodAaFYUK1kfOr3ZII93/EVY73YwWrjt1ChIYfm5kiAA/v71za0SpyicFi21a9XKr+i1tVtRtP1Se6XW7cRXWLGv0uowScqnhu8+ea2IEk49ZjCJKtW8yIMu5nK+pB30X6+QesRB5zO/7ruPo3Es5tfu2ccapKhfEM/BqBRFn6W1a6lKTaz93wPJFm2fZlKgLg5Vk7XViCFVPRr+5IX5yLF6X2iVLPv4T8LIWIcAD+EwLzM/M/nE9IVrjjlPEJ/Lyp98W1XcPvgYdKgnqMcQMZkoa6PZrBKcCWXNCN9Ow0hawlkp9ocN365Fbr0BfN/S+bkP7rmb4kvP+aZI0XisEvN5FYutPikWeyBSmI0y1S2FGFqMaACCWSjDs8eyLumH4rOmWqlsnQtVWeJa0vJ08FYUavR9Or+LCI5U/wQ2z+EqDzn6MaBn4VVCf9GZhKW4+xoksJX7xcTaRFHdwdPpo/jOnG7xcyozCywLXrTSA5mqSprcTrdgEQSFpTzD6w1/EdNRdBVk0zPRYP0SZRooEX/3QRToqMPhoGtIO6Mgz4RhTmWwIdN7yAJG537sP3F4QJrNbz+vBbJyL+DvFFl4m1lDl5e/aDCj5OKqvdml3mEpaCn4eeSOvVAZ35/I8et8zbvZzL93nzLbRXmnBNZNxT7iziljU8x+o25xJzjmWvkbq9BnKHwciBaATe1JEeWCN8qYtRpf3iEpM0nvD/czl87OjMTXbBAbCxbAlv/16/fF8bgmWLlQXiPY4QXBo2r0fWpjxhS4QQBySowcVcHjj+VkGO59/DMff38CqSe+dpCNunbXWGMq5NqhwgUeE8Rf8dvzfTUZrPZpznMnon4R4r9xAdo30i9P5ZKz12pLRv4LC5pccVBCzTb/PzIuSWJSf8iZnm+x6PjUmxuQLFqyyghcgTGmE8qsoONFz1Oj+KkHHcljjSUDs9Ck4UJmvDwkl9kVd+bQAh2CL8htIeek5Ef7JfH8ONbAWAi0Nlfh0R43Rj7mvT+pJxXSPb6FYxKS64mqAD37jOcLNw06FG5HkdnAAL2Nuxds6Xv4+79bn//4058XxBosgZwSHTeIZ9jp79IBvQIBXj7q3iSpCRhn6fzF+2MKIaRF7jkh9bWiNluqln+Tv8LtuOox1tAAAAA=" clip-path="url(#c0)"/>
+  <image x="825.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRuoDAABXRUJQVlA4IN4DAADQEgCdASoyADIAPm0slEYkIqIhLhkpyIANiWwAxxz/4Sxg7AHqA2zHmA8oD9gPcbvEHoAdKL/ff+TNf3vezN39f4PhBlBHHv6J3kWoFec+ZfeDd7eeHz084H0v/2/cJ/XHrQE8jxcFL472FMsUcya2bWTVRX8VBRWWoxsP/sckoodAaFYUK1kfOr3ZII93/EVY73YwWrjt1ChIYfm5kiAA/v71za0SpyicFi21a9XKr+i1tVtRtP1Se6XW7cRXWLGv0uowScqnhu8+ea2IEk49ZjCJKtW8yIMu5nK+pB30X6+QesRB5zO/7ruPo3Es5tfu2ccapKhfEM/BqBRFn6W1a6lKTaz93wPJFm2fZlKgLg5Vk7XViCFVPRr+5IX5yLF6X2iVLPv4T8LIWIcAD+EwLzM/M/nE9IVrjjlPEJ/Lyp98W1XcPvgYdKgnqMcQMZkoa6PZrBKcCWXNCN9Ow0hawlkp9ocN365Fbr0BfN/S+bkP7rmb4kvP+aZI0XisEvN5FYutPikWeyBSmI0y1S2FGFqMaACCWSjDs8eyLumH4rOmWqlsnQtVWeJa0vJ08FYUavR9Or+LCI5U/wQ2z+EqDzn6MaBn4VVCf9GZhKW4+xoksJX7xcTaRFHdwdPpo/jOnG7xcyozCywLXrTSA5mqSprcTrdgEQSFpTzD6w1/EdNRdBVk0zPRYP0SZRooEX/3QRToqMPhoGtIO6Mgz4RhTmWwIdN7yAJG537sP3F4QJrNbz+vBbJyL+DvFFl4m1lDl5e/aDCj5OKqvdml3mEpaCn4eeSOvVAZ35/I8et8zbvZzL93nzLbRXmnBNZNxT7iziljU8x+o25xJzjmWvkbq9BnKHwciBaATe1JEeWCN8qYtRpf3iEpM0nvD/czl87OjMTXbBAbCxbAlv/16/fF8bgmWLlQXiPY4QXBo2r0fWpjxhS4QQBySowcVcHjj+VkGO59/DMff38CqSe+dpCNunbXWGMq5NqhwgUeE8Rf8dvzfTUZrPZpznMnon4R4r9xAdo30i9P5ZKz12pLRv4LC5pccVBCzTb/PzIuSWJSf8iZnm+x6PjUmxuQLFqyyghcgTGmE8qsoONFz1Oj+KkHHcljjSUDs9Ck4UJmvDwkl9kVd+bQAh2CL8htIeek5Ef7JfH8ONbAWAi0Nlfh0R43Rj7mvT+pJxXSPb6FYxKS64mqAD37jOcLNw06FG5HkdnAAL2Nuxds6Xv4+79bn//4058XxBosgZwSHTeIZ9jp79IBvQIBXj7q3iSpCRhn6fzF+2MKIaRF7jkh9bWiNluqln+Tv8LtuOox1tAAAAA=" clip-path="url(#c2)"/>
 </a>
 <a href="https://frontendmasters.com" class="sponsorkit-link" target="_blank" id="FrontendMasters">
   
-  <clipPath id="c2">
+  <clipPath id="c0">
     <rect x="863.5" y="65" width="35" height="35" rx="3.5" ry="3.5" />
   </clipPath>
-  <image x="863.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRiwEAABXRUJQVlA4ICAEAADQEwCdASoyADIAPm0qkkWkIqGYDf2AQAbEtgBmf81+A8xiu/4jfHyxdj+OL1AbZPxiv1m96XngOsr9E/yvf2u+E/ykruD+zeEfiq87H4sSa1juhGTOIDSOzOfHv9T+wd+t3WEMqtdeJ4h5586K0SlDrrWBnqP8iOAYHIulj1eMWd4gTafPKjrH2AxI4hR1DudRkB+DgRxr0LRizrq2avA7RHvWdyxJAAD+/uwjyRobU39kCBruu2vOr/Mv231BD4CB2JISowPOK5vmADMdspSWA2UjDVlDIhmjfvPzjWHvxTn/Vj6nQ/v6z+ujkwI4UHuij/VSuW65IC+10ukJGwsxo1++ULYb7BkYS9Esbb62Ta+39pxYhaZRAg5HjNfEetVLH/mxxXPuNWIxhbqL5ehs58+diGuewQm/3ytThr8/NfmIk/+GPt3FHN+4b20mJ/9YxC6mxqisL9CITIIX5w9X/HKtWIjtCx3mBhqIzJvvtdnOs/GNK8h7ws3VTyfL32F2z/hFgcLkrggXJR4Z/LkdEJ2L6S9w4Iq9HnFsns+ovUS8EQT2Ms0AOR2KHtTwkGUPbsV0Rh1sUxNYaPjA1KePXeTqwphXweq8Eooo3t/psZFEHNxmOfwTH1cPPU2i7IrkzwA8LVqIfTT6umAGOFXA3tB6Uevto/pogMgLWaEj1eevERT2VKRtSP2o2cBSAG1Ifo/stjBn9xxpvG/z4WKmnJmtAH6XJ72Ua7tKATk8+vTnaxjVSklGwE4ijq+v8P99IsWafuxJfNImA6pOL/oEiOLoCNoPSn0bOp4D660giubjEp8ZPt9xIMLFtkrww1TRpuS/m+gVlpfxHT9xMlHEUuYz2gX8dwJH5Z2t2z8bPDbq+pXEmxZ1j9hLNQuELfMRsTzQd6ciiauZUZE0VxfYD2ydTMyV2JNsu2nj581/Pd2P8psN477cjpbaNNdMuZyvd+1Hv3JzT29JjR3Riv2QyfcnW1NEMw7+WyDe4AP+UbbnLbyC6RYLN2mN3Juze87lx70JO2NcixH/BlgkXu3ntFsbnAd2oBcVlrhCb2tAzA/kFuaQS6wyZ7LUWXM818OZMr86yQObU5QcKZLEKO3hEYzH0tNAJwElcWbcgfMsNgOngbE2Ni/IbAkatEidjP1EoIEGc2N14EsbnSaj2HJo/pLeneFRKlxFYCltXLpf8vzXyBeMYVk4zY8ic2NTXbWH9sELNQpbXDevG1gVbiN3BRVq0Y39noWp0ESDXSCL04Npx3WNdvR3Wk76sQIqQozvTLVT6a4f3UuTfmBzpXztRKPhREHqiO0eKQ4S0aqbs/zZp1pzrKy51w5Eq8JCJA4EjImRrMd75tnkD7kMYO/+aEPd/sh1WdOcwPLGDPoyPJSoea1GRaUg18vgAAAAAAA=" clip-path="url(#c2)"/>
+  <image x="863.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRiwEAABXRUJQVlA4ICAEAADQEwCdASoyADIAPm0qkkWkIqGYDf2AQAbEtgBmf81+A8xiu/4jfHyxdj+OL1AbZPxiv1m96XngOsr9E/yvf2u+E/ykruD+zeEfiq87H4sSa1juhGTOIDSOzOfHv9T+wd+t3WEMqtdeJ4h5586K0SlDrrWBnqP8iOAYHIulj1eMWd4gTafPKjrH2AxI4hR1DudRkB+DgRxr0LRizrq2avA7RHvWdyxJAAD+/uwjyRobU39kCBruu2vOr/Mv231BD4CB2JISowPOK5vmADMdspSWA2UjDVlDIhmjfvPzjWHvxTn/Vj6nQ/v6z+ujkwI4UHuij/VSuW65IC+10ukJGwsxo1++ULYb7BkYS9Esbb62Ta+39pxYhaZRAg5HjNfEetVLH/mxxXPuNWIxhbqL5ehs58+diGuewQm/3ytThr8/NfmIk/+GPt3FHN+4b20mJ/9YxC6mxqisL9CITIIX5w9X/HKtWIjtCx3mBhqIzJvvtdnOs/GNK8h7ws3VTyfL32F2z/hFgcLkrggXJR4Z/LkdEJ2L6S9w4Iq9HnFsns+ovUS8EQT2Ms0AOR2KHtTwkGUPbsV0Rh1sUxNYaPjA1KePXeTqwphXweq8Eooo3t/psZFEHNxmOfwTH1cPPU2i7IrkzwA8LVqIfTT6umAGOFXA3tB6Uevto/pogMgLWaEj1eevERT2VKRtSP2o2cBSAG1Ifo/stjBn9xxpvG/z4WKmnJmtAH6XJ72Ua7tKATk8+vTnaxjVSklGwE4ijq+v8P99IsWafuxJfNImA6pOL/oEiOLoCNoPSn0bOp4D660giubjEp8ZPt9xIMLFtkrww1TRpuS/m+gVlpfxHT9xMlHEUuYz2gX8dwJH5Z2t2z8bPDbq+pXEmxZ1j9hLNQuELfMRsTzQd6ciiauZUZE0VxfYD2ydTMyV2JNsu2nj581/Pd2P8psN477cjpbaNNdMuZyvd+1Hv3JzT29JjR3Riv2QyfcnW1NEMw7+WyDe4AP+UbbnLbyC6RYLN2mN3Juze87lx70JO2NcixH/BlgkXu3ntFsbnAd2oBcVlrhCb2tAzA/kFuaQS6wyZ7LUWXM818OZMr86yQObU5QcKZLEKO3hEYzH0tNAJwElcWbcgfMsNgOngbE2Ni/IbAkatEidjP1EoIEGc2N14EsbnSaj2HJo/pLeneFRKlxFYCltXLpf8vzXyBeMYVk4zY8ic2NTXbWH9sELNQpbXDevG1gVbiN3BRVq0Y39noWp0ESDXSCL04Npx3WNdvR3Wk76sQIqQozvTLVT6a4f3UuTfmBzpXztRKPhREHqiO0eKQ4S0aqbs/zZp1pzrKy51w5Eq8JCJA4EjImRrMd75tnkD7kMYO/+aEPd/sh1WdOcwPLGDPoyPJSoea1GRaUg18vgAAAAAAA=" clip-path="url(#c0)"/>
 </a>
 <a href="https://gedankentank.com" class="sponsorkit-link" target="_blank" id="mattwagl">
   
@@ -51,17 +51,17 @@ text {
 </a>
 <a href="https://1stg.me" class="sponsorkit-link" target="_blank" id="unts">
   
-  <clipPath id="c7">
+  <clipPath id="c8">
     <rect x="791" y="158" width="20" height="20" rx="2" ry="2" />
   </clipPath>
-  <image x="791" y="158" width="20" height="20" href="data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoyADIAPm02lkekIyIhKAgAgA2JZQDU4aAlgD0AP0A60IiKwv9aClG7aRU4yrsSDLPbuvPBKrZSgoIvWAAA/pxof0S1zf/tnTGw6PQPtn2miXtXXkb//yz//Zb+c5VOpvoHL/iq5//5Bj/Q19vcreDfDa35ggH34ejV7Gfn7dHXT2uOIRIJ8lTxnbsf0jYbjXyGDzhi9nmrRZM5PaQ9MaTmbA8GqBkq/mZh4mCptV515tez8kV165hVUtgsweGhtqh/p+FgvwsWSsyvhqSzn9O8N9HrKIafIj4Oxxpmw3pRKB3R2DqbcgqQNOEIaqSvy4R0agz+tmjg9RujKkY80QAAAAA=" clip-path="url(#c7)"/>
+  <image x="791" y="158" width="20" height="20" href="data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBwCdASoyADIAPm02lkekIyIhKAgAgA2JZQDU4aAlgD0AP0A60IiKwv9aClG7aRU4yrsSDLPbuvPBKrZSgoIvWAAA/pxof0S1zf/tnTGw6PQPtn2miXtXXkb//yz//Zb+c5VOpvoHL/iq5//5Bj/Q19vcreDfDa35ggH34ejV7Gfn7dHXT2uOIRIJ8lTxnbsf0jYbjXyGDzhi9nmrRZM5PaQ9MaTmbA8GqBkq/mZh4mCptV515tez8kV165hVUtgsweGhtqh/p+FgvwsWSsyvhqSzn9O8N9HrKIafIj4Oxxpmw3pRKB3R2DqbcgqQNOEIaqSvy4R0agz+tmjg9RujKkY80QAAAAA=" clip-path="url(#c8)"/>
 </a>
 <a href="https://unifiedjs.com" class="sponsorkit-link" target="_blank" id="unified">
   
-  <clipPath id="c9">
+  <clipPath id="c7">
     <rect x="813" y="158" width="20" height="20" rx="2" ry="2" />
   </clipPath>
-  <image x="813" y="158" width="20" height="20" href="data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAAAwCQCdASoyADIAPm0ylkikIqIhJBgJuIANiWcAdgBpIHsAfoB1AHAAeAB8Gaqkx4Ewc8cv0GMgjxeYfiMfVTE3dDAnEcI/rAgxZSZls29YSvpgAP78Sgc9hynf9f9UhveNptS7mEwq8/Akml8bmFA1hzn7JjXiSf7GqoLFKs+dCwlXlaH++ISbCbVCbC8nhNEvOam//VV5yrOerFss1En3j3/pYaZ/+PE6xqkWgONGPzbgzunxVbF21vffA+I/jxGxH6fnqYKjrbgyaRfAfUX/u15iTfJGGVJAIWeJIuPglX32WkcbR5q2N/vT+LSfLFu8qvpeOWxnu4FLtrnmGHR9efdwidz2dMHFN7O2BWcmP+oXzCy/Gvj/8YLkDA0vUeDDcV9WOK9Fx10Ir8WvHGK+wEBa5z3PfLPv+Y/qg+Ix/4LV9yfiRF7+d8SnxQrM7agS/qzz0llA7/sdCZvX/gaK/OwEAAAA" clip-path="url(#c9)"/>
+  <image x="813" y="158" width="20" height="20" href="data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAAAwCQCdASoyADIAPm0ylkikIqIhJBgJuIANiWcAdgBpIHsAfoB1AHAAeAB8Gaqkx4Ewc8cv0GMgjxeYfiMfVTE3dDAnEcI/rAgxZSZls29YSvpgAP78Sgc9hynf9f9UhveNptS7mEwq8/Akml8bmFA1hzn7JjXiSf7GqoLFKs+dCwlXlaH++ISbCbVCbC8nhNEvOam//VV5yrOerFss1En3j3/pYaZ/+PE6xqkWgONGPzbgzunxVbF21vffA+I/jxGxH6fnqYKjrbgyaRfAfUX/u15iTfJGGVJAIWeJIuPglX32WkcbR5q2N/vT+LSfLFu8qvpeOWxnu4FLtrnmGHR9efdwidz2dMHFN7O2BWcmP+oXzCy/Gvj/8YLkDA0vUeDDcV9WOK9Fx10Ir8WvHGK+wEBa5z3PfLPv+Y/qg+Ix/4LV9yfiRF7+d8SnxQrM7agS/qzz0llA7/sdCZvX/gaK/OwEAAAA" clip-path="url(#c7)"/>
 </a>
 <a href="https://1stg.me" class="sponsorkit-link" target="_blank" id="rxts">
   
@@ -100,17 +100,17 @@ text {
 </a>
 <a href="https://stackaid.us" class="sponsorkit-link" target="_blank" id="stackaid">
   
-  <clipPath id="c16">
+  <clipPath id="c17">
     <rect x="945" y="158" width="20" height="20" rx="2" ry="2" />
   </clipPath>
-  <image x="945" y="158" width="20" height="20" href="data:image/webp;base64,UklGRqQDAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSLIBAAABCrnWtimSUrUW7uIeuVu2ZyK4BIfIXUJiJseJ3El3YtyJ3N1zdytZ767vcAHfX39EMHLbxpE4bct99w0sZJsnrdp/6tkXzyyn9q+a1GJNGssZ1TvffAwUEZLi9W51hmVCjZXadx9iEX6vVZrKHuzY439CLIW/T4wpN+qWvguxNL5bWlei/nt9TELtX/jaoFNeEjEPKngrXwuSjNdy709PBwGg9vbQ7vUCQbU959IgIFzaY4x5JzDUbjUdC7h4vKnrXuV3BFJ2VQvIWLOGM35EqB8zaDcHbKza5jsR7G7LpK/oMlcGdFy1H57sP4lfTj3F9/Teq9dgous3wPFfgHOf8bc/P84OLD+ZORtu1vzdcLrSebSVE78yQPmszYdOgmmzqW8Ey4Yjr9+DEhraNugD32Y7a/34JX/NX0DvaashWddfB+D0s4Yk7Yhx40Go1nRv4XuYRdb0GHuch9BsTU/9Nm6CyNr797dO6kUkJ75HU2D0vPmJ8mgW6rfHJ8pqisni85cuC1nyvby4ruTvU9qvlfmvDFm3ZeeuXuiWdUMAo8/kFftOPvvsVJ6d4orJfUxhBFZQOCDMAQAA8AsAnQEqMgAyAD5tKJJGpCIhoTAUDPiADYlsAMyL6MTHqv4wc0tvZ4R5fEw1fz/IaM7xnPWG6F3qYPQA6Un9zACqwlxj6/o2YnDXFFws0JjOIxyPMo2Ut1Qnp117c/AhlmyGYIwdAkAA1K51lLTGTKp8A5wYc/N3LxClqVeZQbyAJsYh5K5nNPI2vrNgHcBBPcsgCxGDEtpBpe2HRmXZcmhgVwlNCauXRol2Ydsfevs3BIr/5Z6l00sXxSFJSL8OoLqP8Lw2BfJYKpwGLgJy88mPfHYiSxTLGvd64ghkdJ/zkJ0MpwT4N+3dn//0u2cVt8nqCP1dTz39Mzm/4TCZAzao640ubreqY/uJtHb7qsobRHOIa8xBD1xUwpmEkkURZJrFrA7BOIjhcwvL96AehU5s0Rht/lwjZuq5VVlfvxp5koQrZTVKlzb5v0yW68XpOu3g268+ckl9K9h5NPf0ADOFFdvt7uKcmR16lfrSMjtHvV889+xcXwdU/9ZOf/+rLfj9yWgeuzmydkSaVjfSmcRml9/h3tfkXD4HEHBHir1sfYwqCcro2TsEdeooxbRKP9Fv//PDThh6OxpaUG850vzSknf9uw+AAAAAAA==" clip-path="url(#c16)"/>
+  <image x="945" y="158" width="20" height="20" href="data:image/webp;base64,UklGRqQDAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSLIBAAABCrnWtimSUrUW7uIeuVu2ZyK4BIfIXUJiJseJ3El3YtyJ3N1zdytZ767vcAHfX39EMHLbxpE4bct99w0sZJsnrdp/6tkXzyyn9q+a1GJNGssZ1TvffAwUEZLi9W51hmVCjZXadx9iEX6vVZrKHuzY439CLIW/T4wpN+qWvguxNL5bWlei/nt9TELtX/jaoFNeEjEPKngrXwuSjNdy709PBwGg9vbQ7vUCQbU959IgIFzaY4x5JzDUbjUdC7h4vKnrXuV3BFJ2VQvIWLOGM35EqB8zaDcHbKza5jsR7G7LpK/oMlcGdFy1H57sP4lfTj3F9/Teq9dgous3wPFfgHOf8bc/P84OLD+ZORtu1vzdcLrSebSVE78yQPmszYdOgmmzqW8Ey4Yjr9+DEhraNugD32Y7a/34JX/NX0DvaashWddfB+D0s4Yk7Yhx40Go1nRv4XuYRdb0GHuch9BsTU/9Nm6CyNr797dO6kUkJ75HU2D0vPmJ8mgW6rfHJ8pqisni85cuC1nyvby4ruTvU9qvlfmvDFm3ZeeuXuiWdUMAo8/kFftOPvvsVJ6d4orJfUxhBFZQOCDMAQAA8AsAnQEqMgAyAD5tKJJGpCIhoTAUDPiADYlsAMyL6MTHqv4wc0tvZ4R5fEw1fz/IaM7xnPWG6F3qYPQA6Un9zACqwlxj6/o2YnDXFFws0JjOIxyPMo2Ut1Qnp117c/AhlmyGYIwdAkAA1K51lLTGTKp8A5wYc/N3LxClqVeZQbyAJsYh5K5nNPI2vrNgHcBBPcsgCxGDEtpBpe2HRmXZcmhgVwlNCauXRol2Ydsfevs3BIr/5Z6l00sXxSFJSL8OoLqP8Lw2BfJYKpwGLgJy88mPfHYiSxTLGvd64ghkdJ/zkJ0MpwT4N+3dn//0u2cVt8nqCP1dTz39Mzm/4TCZAzao640ubreqY/uJtHb7qsobRHOIa8xBD1xUwpmEkkURZJrFrA7BOIjhcwvL96AehU5s0Rht/lwjZuq5VVlfvxp5koQrZTVKlzb5v0yW68XpOu3g268+ckl9K9h5NPf0ADOFFdvt7uKcmR16lfrSMjtHvV889+xcXwdU/9ZOf/+rLfj9yWgeuzmydkSaVjfSmcRml9/h3tfkXD4HEHBHir1sfYwqCcro2TsEdeooxbRKP9Fv//PDThh6OxpaUG850vzSknf9uw+AAAAAAA==" clip-path="url(#c17)"/>
 </a>
 <a href="https://bolajiayodeji.com" class="sponsorkit-link" target="_blank" id="BolajiAyodeji">
   
-  <clipPath id="c18">
+  <clipPath id="c15">
     <rect x="967" y="158" width="20" height="20" rx="10" ry="10" />
   </clipPath>
-  <image x="967" y="158" width="20" height="20" href="data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQBACdASoyADIAPm02mEkkIyKhIggAgA2JaQB2APwAACBupqAK8QtyAAD+4uC//+N24w34Lv//izkYjszEgY3xwAAAAA==" clip-path="url(#c18)"/>
+  <image x="967" y="158" width="20" height="20" href="data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQBACdASoyADIAPm02mEkkIyKhIggAgA2JaQB2APwAACBupqAK8QtyAAD+4uC//+N24w34Lv//izkYjszEgY3xwAAAAA==" clip-path="url(#c15)"/>
 </a>
 <a href="https://yutengjing.com" class="sponsorkit-link" target="_blank" id="tjx666">
   
@@ -121,9 +121,9 @@ text {
 </a>
 <a href="https://cocopon.me" class="sponsorkit-link" target="_blank" id="cocopon">
   
-  <clipPath id="c17">
+  <clipPath id="c18">
     <rect x="1011" y="158" width="20" height="20" rx="10" ry="10" />
   </clipPath>
-  <image x="1011" y="158" width="20" height="20" href="data:image/webp;base64,UklGRhoCAABXRUJQVlA4IA4CAACQDACdASoyADIAPm0ulEckIiIhJhVc6IANiWoAz53RfgGp19a/F38Sejt3XIU7Af0gPMB+t37AdgDzZuoA9ADyqf27+Ef9tP2qaua1VGbr4KjqZpQWr8kcQNZQqPrxiKKXEPL9gi/iAFI/XP7AAFcEP/qHV/KWW414Zu44t2f7KtmpO0NXtksZAj74EprDrZ+couyL6/fA3sktRq5xRHZMoYKyLVH0Cyz330GWVtKNt8z+rKPuluStNtpwRklhxkUfE9F82+rdXo5ch/P6px/FPrk8YjQ+97anc6sBQiRTgyAPwv5tP6fHaOzW4Ml3y4Hv5S6Kes+ZNecl7z8YuWrf5kz4eoz9jCIxBnUGZRANeZmbt+xpf3ee1zFVisYvVaFkrUtKi6bkleAHojxzPxnb0fmD2sHhLlc3oDz6P2EdiHI5g985Z4zgDMCdukVo59T5LRL2bB/z6Kg+LXN1FFujIQ0/li4cm+K9jK3aKCM6ee3D45hRIBmAnGi7czqWyrAzYzKT4Hn3I/FKH/slpVa/B3Tgpg/FOYP4C2AcU+W/kKdbm+rlaqcM5Z/55TPz/4tsfVX0przfVr/fHn4GpId+89+6BqXxonzfJ4kuiXEy0vHE0B7iP2vOincXL3meMcoBf0Dbmr8tT0nk7Coircf67vSHY2jVyuj7ywMM0eSjv3pkhoGHgEqgPqhfyAAA" clip-path="url(#c17)"/>
+  <image x="1011" y="158" width="20" height="20" href="data:image/webp;base64,UklGRhoCAABXRUJQVlA4IA4CAACQDACdASoyADIAPm0ulEckIiIhJhVc6IANiWoAz53RfgGp19a/F38Sejt3XIU7Af0gPMB+t37AdgDzZuoA9ADyqf27+Ef9tP2qaua1VGbr4KjqZpQWr8kcQNZQqPrxiKKXEPL9gi/iAFI/XP7AAFcEP/qHV/KWW414Zu44t2f7KtmpO0NXtksZAj74EprDrZ+couyL6/fA3sktRq5xRHZMoYKyLVH0Cyz330GWVtKNt8z+rKPuluStNtpwRklhxkUfE9F82+rdXo5ch/P6px/FPrk8YjQ+97anc6sBQiRTgyAPwv5tP6fHaOzW4Ml3y4Hv5S6Kes+ZNecl7z8YuWrf5kz4eoz9jCIxBnUGZRANeZmbt+xpf3ee1zFVisYvVaFkrUtKi6bkleAHojxzPxnb0fmD2sHhLlc3oDz6P2EdiHI5g985Z4zgDMCdukVo59T5LRL2bB/z6Kg+LXN1FFujIQ0/li4cm+K9jK3aKCM6ee3D45hRIBmAnGi7czqWyrAzYzKT4Hn3I/FKH/slpVa/B3Tgpg/FOYP4C2AcU+W/kKdbm+rlaqcM5Z/55TPz/4tsfVX0przfVr/fHn4GpId+89+6BqXxonzfJ4kuiXEy0vHE0B7iP2vOincXL3meMcoBf0Dbmr8tT0nk7Coircf67vSHY2jVyuj7ywMM0eSjv3pkhoGHgEqgPqhfyAAA" clip-path="url(#c18)"/>
 </a>
 </svg>
