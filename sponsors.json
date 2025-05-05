@@ -1,5 +1,13 @@
 [
   {
+    "name": "Al Munnings",
+    "login": "almunnings",
+    "avatar": "https://avatars.githubusercontent.com/u/1531329?u=a13b376948a5f77d8558912fef25a1569214a7f4&v=4",
+    "amount": 25,
+    "link": "https://github.com/almunnings",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -13,6 +21,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1268387?u=67e134c16f82b9326f18aacdd8a68c041b35510e&v=4",
     "amount": 5,
     "link": "https://github.com/mattwagl",
+    "org": false
+  },
+  {
+    "name": "Connor Tumbleson",
+    "login": "iBotPeaches",
+    "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
+    "amount": 2,
+    "link": "https://github.com/iBotPeaches",
     "org": false
   },
   {
@@ -72,22 +88,6 @@
     "org": true
   },
   {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
-  },
-  {
-    "name": "ESLint",
-    "login": "eslint",
-    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint",
-    "org": true
-  },
-  {
     "name": "Hiroki Kokubun",
     "login": "cocopon",
     "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
@@ -102,6 +102,14 @@
     "amount": -1,
     "link": "https://github.com/tjx666",
     "org": false
+  },
+  {
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
   },
   {
     "name": "Bolaji Ayodeji",
@@ -126,5 +134,13 @@
     "amount": -1,
     "link": "https://github.com/marekvospel",
     "org": false
+  },
+  {
+    "name": "ESLint",
+    "login": "eslint",
+    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint",
+    "org": true
   }
 ]
