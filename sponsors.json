@@ -8,6 +8,22 @@
     "org": false
   },
   {
+    "name": "Leo Hui",
+    "login": "leohxj",
+    "avatar": "https://avatars.githubusercontent.com/u/1506900?u=71d958963c99af23ace2807deb88740c536c17ea&v=4",
+    "amount": 10,
+    "link": "https://github.com/leohxj",
+    "org": false
+  },
+  {
+    "name": "Ethan Willis",
+    "login": "Ethan",
+    "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
+    "amount": 5,
+    "link": "https://www.patreon.com/user?u=2996465",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -72,19 +88,27 @@
     "org": true
   },
   {
-    "name": "RxTS",
-    "login": "rxts",
-    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/rxts",
-    "org": true
-  },
-  {
     "name": "Prettier ESLint",
     "login": "prettier-eslint",
     "avatar": "https://images.opencollective.com/prettier-eslint/06fc781/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/prettier-eslint",
+    "org": true
+  },
+  {
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
+  },
+  {
+    "name": "ESLint",
+    "login": "eslint",
+    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint",
     "org": true
   },
   {
@@ -104,14 +128,6 @@
     "org": false
   },
   {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
-  },
-  {
     "name": "Bolaji Ayodeji",
     "login": "BolajiAyodeji",
     "avatar": "https://avatars.githubusercontent.com/u/30334776?u=f5fcc58e9ebbc29e8cf0f37501fc0a160d881572&v=4",
@@ -128,19 +144,19 @@
     "org": true
   },
   {
+    "name": "RxTS",
+    "login": "rxts",
+    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/rxts",
+    "org": true
+  },
+  {
     "name": "Marek Vospel",
     "login": "marekvospel",
     "avatar": "https://avatars.githubusercontent.com/u/73162071?u=4b667d19a1853c7e637ec7db352ce1fc11696c39&v=4",
     "amount": -1,
     "link": "https://github.com/marekvospel",
     "org": false
-  },
-  {
-    "name": "ESLint",
-    "login": "eslint",
-    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint",
-    "org": true
   }
 ]
