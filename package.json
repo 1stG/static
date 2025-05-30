@@ -1,10 +1,10 @@
 {
   "scripts": {
-    "build": "yarn sponsorkit -w 800 --dir . && yarn sponsorkit -w 1800 --name sponsors.wide --dir ."
+    "build": "sponsorkit -w 800 --dir . && yarn sponsorkit -w 1800 --name sponsors.wide --dir ."
   },
   "devDependencies": {
-    "@types/node": "^22.13.8",
-    "sponsorkit": "^16.3.0"
+    "@types/node": "^22.15.27",
+    "sponsorkit": "^16.4.2"
   },
   "packageManager": "yarn@4.9.1"
 }
