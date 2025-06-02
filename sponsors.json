@@ -32,14 +32,6 @@
     "org": true
   },
   {
-    "name": "Matthias Wagler",
-    "login": "mattwagl",
-    "avatar": "https://avatars.githubusercontent.com/u/1268387?u=d78612e49aceeefad16bd020bc80d8f50a3623ce&v=4",
-    "amount": 5,
-    "link": "https://github.com/mattwagl",
-    "org": false
-  },
-  {
     "name": "Connor Tumbleson",
     "login": "iBotPeaches",
     "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
@@ -88,27 +80,19 @@
     "org": true
   },
   {
+    "name": "RxTS",
+    "login": "rxts",
+    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/rxts",
+    "org": true
+  },
+  {
     "name": "Prettier ESLint",
     "login": "prettier-eslint",
     "avatar": "https://images.opencollective.com/prettier-eslint/06fc781/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/prettier-eslint",
-    "org": true
-  },
-  {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
-  },
-  {
-    "name": "ESLint",
-    "login": "eslint",
-    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint",
     "org": true
   },
   {
@@ -128,6 +112,22 @@
     "org": false
   },
   {
+    "name": "Matthias Wagler",
+    "login": "mattwagl",
+    "avatar": "https://avatars.githubusercontent.com/u/1268387?u=d78612e49aceeefad16bd020bc80d8f50a3623ce&v=4",
+    "amount": -1,
+    "link": "https://github.com/mattwagl",
+    "org": false
+  },
+  {
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
+  },
+  {
     "name": "Bolaji Ayodeji",
     "login": "BolajiAyodeji",
     "avatar": "https://avatars.githubusercontent.com/u/30334776?u=f5fcc58e9ebbc29e8cf0f37501fc0a160d881572&v=4",
@@ -144,19 +144,19 @@
     "org": true
   },
   {
-    "name": "RxTS",
-    "login": "rxts",
-    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/rxts",
-    "org": true
-  },
-  {
     "name": "Marek Vospel",
     "login": "marekvospel",
     "avatar": "https://avatars.githubusercontent.com/u/73162071?u=4b667d19a1853c7e637ec7db352ce1fc11696c39&v=4",
     "amount": -1,
     "link": "https://github.com/marekvospel",
     "org": false
+  },
+  {
+    "name": "ESLint",
+    "login": "eslint",
+    "avatar": "https://images.opencollective.com/eslint/48a2e5d/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint",
+    "org": true
   }
 ]
