@@ -1,13 +1,5 @@
 [
   {
-    "name": "Al Munnings",
-    "login": "almunnings",
-    "avatar": "https://avatars.githubusercontent.com/u/1531329?u=a13b376948a5f77d8558912fef25a1569214a7f4&v=4",
-    "amount": 25,
-    "link": "https://github.com/almunnings",
-    "org": false
-  },
-  {
     "name": "Leo Hui",
     "login": "leohxj",
     "avatar": "https://avatars.githubusercontent.com/u/1506900?u=71d958963c99af23ace2807deb88740c536c17ea&v=4",
@@ -30,14 +22,6 @@
     "amount": 5,
     "link": "https://github.com/roboflow",
     "org": true
-  },
-  {
-    "name": "Connor Tumbleson",
-    "login": "iBotPeaches",
-    "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
-    "amount": 2,
-    "link": "https://github.com/iBotPeaches",
-    "org": false
   },
   {
     "name": "Frontend Masters",
@@ -96,6 +80,22 @@
     "org": true
   },
   {
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
+  },
+  {
+    "name": "Al Munnings",
+    "login": "almunnings",
+    "avatar": "https://avatars.githubusercontent.com/u/1531329?u=a13b376948a5f77d8558912fef25a1569214a7f4&v=4",
+    "amount": -1,
+    "link": "https://github.com/almunnings",
+    "org": false
+  },
+  {
     "name": "Hiroki Kokubun",
     "login": "cocopon",
     "avatar": "https://avatars.githubusercontent.com/u/602961?u=48832889915523e3170c197e66bc04fc8303a096&v=4",
@@ -120,12 +120,12 @@
     "org": false
   },
   {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "name": "Connor Tumbleson",
+    "login": "iBotPeaches",
+    "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
     "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
+    "link": "https://github.com/iBotPeaches",
+    "org": false
   },
   {
     "name": "Bolaji Ayodeji",
