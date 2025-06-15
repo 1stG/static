@@ -1,13 +1,5 @@
 [
   {
-    "name": "Leo Hui",
-    "login": "leohxj",
-    "avatar": "https://avatars.githubusercontent.com/u/1506900?u=71d958963c99af23ace2807deb88740c536c17ea&v=4",
-    "amount": 10,
-    "link": "https://github.com/leohxj",
-    "org": false
-  },
-  {
     "name": "Ethan Willis",
     "login": "Ethan",
     "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
@@ -78,6 +70,14 @@
     "amount": -1,
     "link": "https://opencollective.com/prettier-eslint",
     "org": true
+  },
+  {
+    "name": "Leo Hui",
+    "login": "leohxj",
+    "avatar": "https://avatars.githubusercontent.com/u/1506900?u=71d958963c99af23ace2807deb88740c536c17ea&v=4",
+    "amount": -1,
+    "link": "https://github.com/leohxj",
+    "org": false
   },
   {
     "name": "eslint-plugin-prettier",
