@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Frontend Masters",
-    "login": "FrontendMasters",
-    "avatar": "https://avatars.githubusercontent.com/u/5613852?v=4",
-    "amount": 1,
-    "link": "https://github.com/FrontendMasters",
-    "org": true
-  },
-  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -56,14 +48,6 @@
     "org": true
   },
   {
-    "name": "RxTS",
-    "login": "rxts",
-    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/rxts",
-    "org": true
-  },
-  {
     "name": "Prettier ESLint",
     "login": "prettier-eslint",
     "avatar": "https://images.opencollective.com/prettier-eslint/06fc781/logo/460.png",
@@ -78,14 +62,6 @@
     "amount": -1,
     "link": "https://github.com/leohxj",
     "org": false
-  },
-  {
-    "name": "eslint-plugin-prettier",
-    "login": "eslint-plugin-prettier",
-    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/eslint-plugin-prettier",
-    "org": true
   },
   {
     "name": "Al Munnings",
@@ -112,6 +88,14 @@
     "org": false
   },
   {
+    "name": "RxTS",
+    "login": "rxts",
+    "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/rxts",
+    "org": true
+  },
+  {
     "name": "Matthias Wagler",
     "login": "mattwagl",
     "avatar": "https://avatars.githubusercontent.com/u/1268387?u=d78612e49aceeefad16bd020bc80d8f50a3623ce&v=4",
@@ -120,12 +104,28 @@
     "org": false
   },
   {
+    "name": "Frontend Masters",
+    "login": "FrontendMasters",
+    "avatar": "https://avatars.githubusercontent.com/u/5613852?v=4",
+    "amount": -1,
+    "link": "https://github.com/FrontendMasters",
+    "org": true
+  },
+  {
     "name": "Connor Tumbleson",
     "login": "iBotPeaches",
     "avatar": "https://avatars.githubusercontent.com/u/611784?u=7c089b5fac20073487da8f2da20197f13979b1e0&v=4",
     "amount": -1,
     "link": "https://github.com/iBotPeaches",
     "org": false
+  },
+  {
+    "name": "eslint-plugin-prettier",
+    "login": "eslint-plugin-prettier",
+    "avatar": "https://images.opencollective.com/eslint-plugin-prettier/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/eslint-plugin-prettier",
+    "org": true
   },
   {
     "name": "Bolaji Ayodeji",
