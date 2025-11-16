@@ -1,13 +1,5 @@
 [
   {
-    "name": "Ethan Willis",
-    "login": "Ethan",
-    "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
-    "amount": 5,
-    "link": "https://www.patreon.com/user?u=2996465",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -22,6 +14,14 @@
     "amount": 1,
     "link": "https://github.com/syntaxfm",
     "org": true
+  },
+  {
+    "name": "Ethan Willis",
+    "login": "Ethan",
+    "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
+    "amount": 0,
+    "link": "https://www.patreon.com/user?u=2996465",
+    "org": false
   },
   {
     "name": "webpack",
