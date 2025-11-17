@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Ethan Willis",
-    "login": "Ethan",
-    "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
-    "amount": 0,
-    "link": "https://www.patreon.com/user?u=2996465",
-    "org": false
-  },
-  {
     "name": "webpack",
     "login": "webpack",
     "avatar": "https://images.opencollective.com/webpack/c517443/logo/460.png",
@@ -54,6 +46,14 @@
     "amount": -1,
     "link": "https://opencollective.com/prettier-eslint",
     "org": true
+  },
+  {
+    "name": "Ethan Willis",
+    "login": "Ethan",
+    "avatar": "https://c10.patreonusercontent.com/4/patreon-media/p/user/2996465/df3efa49fad54c3d9079ff7973ea7987/eyJ3IjoyMDB9/1.jpeg?token-hash=ernwk_W_rmD7Oj4JPQ7Aly4AVEQqY8szTlOmAJlKJbI%3D",
+    "amount": -1,
+    "link": "https://www.patreon.com/user?u=2996465",
+    "org": false
   },
   {
     "name": "Leo Hui",
