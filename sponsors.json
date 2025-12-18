@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "LisboaJS",
+    "login": "lisboajs",
+    "avatar": "https://avatars.githubusercontent.com/u/185822146?v=4",
+    "amount": 1,
+    "link": "https://github.com/lisboajs",
+    "org": true
+  },
+  {
     "name": "Syntax",
     "login": "syntaxfm",
     "avatar": "https://avatars.githubusercontent.com/u/130389858?v=4",
@@ -37,14 +45,6 @@
     "avatar": "https://images.opencollective.com/unified/d88cdbc/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/unified",
-    "org": true
-  },
-  {
-    "name": "Prettier ESLint",
-    "login": "prettier-eslint",
-    "avatar": "https://images.opencollective.com/prettier-eslint/06fc781/logo/460.png",
-    "amount": -1,
-    "link": "https://opencollective.com/prettier-eslint",
     "org": true
   },
   {
@@ -93,6 +93,14 @@
     "avatar": "https://images.opencollective.com/rxts/5a04fa8/logo/460.png",
     "amount": -1,
     "link": "https://opencollective.com/rxts",
+    "org": true
+  },
+  {
+    "name": "Prettier ESLint",
+    "login": "prettier-eslint",
+    "avatar": "https://images.opencollective.com/prettier-eslint/06fc781/logo/460.png",
+    "amount": -1,
+    "link": "https://opencollective.com/prettier-eslint",
     "org": true
   },
   {
