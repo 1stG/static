@@ -250,12 +250,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^22.15.27":
-  version: 22.19.13
-  resolution: "@types/node@npm:22.19.13"
+"@types/node@npm:^24.0.0":
+  version: 24.12.0
+  resolution: "@types/node@npm:24.12.0"
   dependencies:
-    undici-types: "npm:~6.21.0"
-  checksum: 10c0/ad8a0b6a69dd8ef663701573eca94ef6d20ce093f54f05bed823c826374eb1ea8b06e6f2c5d7f6cfc203b82dfd60293296bf80ea987ddb77775840bc2ef9f803
+    undici-types: "npm:~7.16.0"
+  checksum: 10c0/8b31c0af5b5474f13048a4e77c57f22cd4f8fe6e58c4b6fde9456b0c13f46a5bfaf5744ff88fd089581de9f0d6e99c584e022681de7acb26a58d258c654c4843
   languageName: node
   linkType: hard
 
@@ -301,10 +301,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:^16.5.0":
-  version: 16.6.1
-  resolution: "dotenv@npm:16.6.1"
-  checksum: 10c0/15ce56608326ea0d1d9414a5c8ee6dcf0fffc79d2c16422b4ac2268e7e2d76ff5a572d37ffe747c377de12005f14b3cc22361e79fc7f1061cce81f77d2c973dc
+"dotenv@npm:^17.2.1":
+  version: 17.3.1
+  resolution: "dotenv@npm:17.3.1"
+  checksum: 10c0/c78e0c2d5a549c751e544cc60e2b95e7cb67e0c551f42e094d161c6b297aa44b630a3c2dcacf5569e529a6c2a6b84e2ab9be8d37b299d425df5a18b81ce4a35f
   languageName: node
   linkType: hard
 
@@ -346,8 +346,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@types/node": "npm:^22.15.27"
-    sponsorkit: "npm:^16.4.2"
+    "@types/node": "npm:^24.0.0"
+    sponsorkit: "npm:^17.0.0"
   languageName: unknown
   linkType: soft
 
@@ -360,7 +360,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.34.2":
+"sharp@npm:^0.34.3":
   version: 0.34.5
   resolution: "sharp@npm:0.34.5"
   dependencies:
@@ -444,20 +444,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sponsorkit@npm:^16.4.2":
-  version: 16.5.0
-  resolution: "sponsorkit@npm:16.5.0"
+"sponsorkit@npm:^17.0.0":
+  version: 17.0.0
+  resolution: "sponsorkit@npm:17.0.0"
   dependencies:
     ansis: "npm:^4.1.0"
     cac: "npm:^6.7.14"
     consola: "npm:^3.4.2"
-    dotenv: "npm:^16.5.0"
+    dotenv: "npm:^17.2.1"
     ofetch: "npm:^1.4.1"
-    sharp: "npm:^0.34.2"
+    sharp: "npm:^0.34.3"
     unconfig: "npm:^7.3.2"
   bin:
     sponsorkit: bin/sponsorkit.mjs
-  checksum: 10c0/82e349f306c2ffb592756dba51f7311572c08ad991f38a7ce5da6e0ef60d39b6bd6a4cba6a602bd67219abaac078195e568753101c9048e90d8c52cd34abb873
+  checksum: 10c0/86afe798bdbeef39deeba651ab92430c5acf8078b6e63cfc1307531de7ba45b1c783d56b164d6f5070c638d1cd23950320b73dfe3181960c3cfe8328e64566b2
   languageName: node
   linkType: hard
 
@@ -498,9 +498,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~6.21.0":
-  version: 6.21.0
-  resolution: "undici-types@npm:6.21.0"
-  checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
+"undici-types@npm:~7.16.0":
+  version: 7.16.0
+  resolution: "undici-types@npm:7.16.0"
+  checksum: 10c0/3033e2f2b5c9f1504bdc5934646cb54e37ecaca0f9249c983f7b1fc2e87c6d18399ebb05dc7fd5419e02b2e915f734d872a65da2e3eeed1813951c427d33cc9a
   languageName: node
   linkType: hard
