@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 8
+  version: 10
   cacheKey: 10c0
 
 "@emnapi/runtime@npm:^1.7.0":
@@ -250,26 +250,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^22.15.27":
-  version: 22.19.19
-  resolution: "@types/node@npm:22.19.19"
+"@types/node@npm:^24.0.0":
+  version: 24.13.2
+  resolution: "@types/node@npm:24.13.2"
   dependencies:
-    undici-types: "npm:~6.21.0"
-  checksum: 10c0/402e0f088c94cabda3cd721546bd8e4e75e098e0b342f6e03b90ca1e19c28986f9650112c64fcfd09fc8cebc0f8b20291a513153e90489331cf666e1e5503e16
+    undici-types: "npm:~7.18.0"
+  checksum: 10c0/d7d48a88a4feb0a6aac3cbfaf9ef3b12752b4b09447f88dd0b4c77c03b281e3d4330fe6982a99aedcd63fc16c7540a0c248b91eb2abb0b3edd884d7fe684e9ea
   languageName: node
   linkType: hard
 
-"ansis@npm:^4.1.0":
+"ansis@npm:^4.3.0":
   version: 4.3.1
   resolution: "ansis@npm:4.3.1"
   checksum: 10c0/d1a48090f9c33b18f254a3496e5336a20391a51140b552a1c0bc38710ae7c8bc36a62658f28759797d7bce15e89b893e9ef1962ea1ea42a291d112263f6e593c
   languageName: node
   linkType: hard
 
-"cac@npm:^6.7.14":
-  version: 6.7.14
-  resolution: "cac@npm:6.7.14"
-  checksum: 10c0/4ee06aaa7bab8981f0d54e5f5f9d4adcd64058e9697563ce336d8a3878ed018ee18ebe5359b2430eceae87e0758e62ea2019c3f52ae6e211b1bd2e133856cd10
+"cac@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "cac@npm:7.0.0"
+  checksum: 10c0/e9da33cb9f0425546ae92a450d479276f9969a050fe64f5d6fedf058bdd87f22a370797fe1c158e07655fa9fc183749df7cb2037431e3772faa7bee9919fb763
   languageName: node
   linkType: hard
 
@@ -301,10 +301,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv@npm:^16.5.0":
-  version: 16.6.1
-  resolution: "dotenv@npm:16.6.1"
-  checksum: 10c0/15ce56608326ea0d1d9414a5c8ee6dcf0fffc79d2c16422b4ac2268e7e2d76ff5a572d37ffe747c377de12005f14b3cc22361e79fc7f1061cce81f77d2c973dc
+"dotenv@npm:^17.4.2":
+  version: 17.4.2
+  resolution: "dotenv@npm:17.4.2"
+  checksum: 10c0/164f8e77a646c8446867d5b588d26ea6005c8ea7c5eb41cf926f6113d23f2191355f6e0cfd95ea9bab98394a5b0a3f1e51a8399711b666fe55cc7b0bd745f942
   languageName: node
   linkType: hard
 
@@ -324,7 +324,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ofetch@npm:^1.4.1":
+"ofetch@npm:^1.5.1":
   version: 1.5.1
   resolution: "ofetch@npm:1.5.1"
   dependencies:
@@ -346,8 +346,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@types/node": "npm:^22.15.27"
-    sponsorkit: "npm:^16.4.2"
+    "@types/node": "npm:^24.0.0"
+    sponsorkit: "npm:^17.0.0"
   languageName: unknown
   linkType: soft
 
@@ -360,7 +360,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.34.2":
+"sharp@npm:^0.34.5":
   version: 0.34.5
   resolution: "sharp@npm:0.34.5"
   dependencies:
@@ -444,20 +444,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sponsorkit@npm:^16.4.2":
-  version: 16.5.0
-  resolution: "sponsorkit@npm:16.5.0"
+"sponsorkit@npm:^17.0.0":
+  version: 17.1.1
+  resolution: "sponsorkit@npm:17.1.1"
   dependencies:
-    ansis: "npm:^4.1.0"
-    cac: "npm:^6.7.14"
+    ansis: "npm:^4.3.0"
+    cac: "npm:^7.0.0"
     consola: "npm:^3.4.2"
-    dotenv: "npm:^16.5.0"
-    ofetch: "npm:^1.4.1"
-    sharp: "npm:^0.34.2"
-    unconfig: "npm:^7.3.2"
+    dotenv: "npm:^17.4.2"
+    ofetch: "npm:^1.5.1"
+    sharp: "npm:^0.34.5"
+    unconfig: "npm:^7.5.0"
   bin:
-    sponsorkit: bin/sponsorkit.mjs
-  checksum: 10c0/82e349f306c2ffb592756dba51f7311572c08ad991f38a7ce5da6e0ef60d39b6bd6a4cba6a602bd67219abaac078195e568753101c9048e90d8c52cd34abb873
+    sponsorkit: ./bin/sponsorkit.mjs
+  checksum: 10c0/e3b7aa1a3d1fcee1b9e6bd621aa545f23da2886e49fcdc077cdc353db3f380553721177012df111372002e8f10e8344d8fbce606b05ae0ec54a28d00482d9cb2
   languageName: node
   linkType: hard
 
@@ -485,7 +485,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unconfig@npm:^7.3.2":
+"unconfig@npm:^7.5.0":
   version: 7.5.0
   resolution: "unconfig@npm:7.5.0"
   dependencies:
@@ -498,9 +498,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~6.21.0":
-  version: 6.21.0
-  resolution: "undici-types@npm:6.21.0"
-  checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
+"undici-types@npm:~7.18.0":
+  version: 7.18.2
+  resolution: "undici-types@npm:7.18.2"
+  checksum: 10c0/85a79189113a238959d7a647368e4f7c5559c3a404ebdb8fc4488145ce9426fcd82252a844a302798dfc0e37e6fb178ff481ed03bc4caf634c5757d9ef43521d
   languageName: node
   linkType: hard
