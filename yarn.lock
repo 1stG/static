@@ -5,6 +5,15 @@ __metadata:
   version: 10
   cacheKey: 10c0
 
+"@1stg/tsconfig@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@1stg/tsconfig@npm:4.0.0"
+  peerDependencies:
+    typescript: ">=6.0.0"
+  checksum: 10c0/44d7352fe469cff299f41adebd3022cb12d54fd47277835e6a66a3b29a96cf2049b3df396b460e6cb8c0363a16c54b36b25fb6bf4207bb26edec4813493e8c69
+  languageName: node
+  linkType: hard
+
 "@emnapi/runtime@npm:^1.7.0":
   version: 1.11.1
   resolution: "@emnapi/runtime@npm:1.11.1"
@@ -250,7 +259,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^24.0.0":
+"@types/node@npm:^24.13.2":
   version: 24.13.2
   resolution: "@types/node@npm:24.13.2"
   dependencies:
@@ -346,8 +355,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@types/node": "npm:^24.0.0"
-    sponsorkit: "npm:^17.0.0"
+    "@1stg/tsconfig": "npm:^4.0.0"
+    "@types/node": "npm:^24.13.2"
+    sponsorkit: "npm:^17.1.1"
   languageName: unknown
   linkType: soft
 
@@ -444,7 +454,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sponsorkit@npm:^17.0.0":
+"sponsorkit@npm:^17.1.1":
   version: 17.1.1
   resolution: "sponsorkit@npm:17.1.1"
   dependencies:

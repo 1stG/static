@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 
-import { BadgePreset, defineConfig, tierPresets } from "sponsorkit";
+import { type BadgePreset, defineConfig, tierPresets } from "sponsorkit";
 
 const past: BadgePreset = {
   avatar: {

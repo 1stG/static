@@ -1,10 +1,12 @@
 {
+  "type": "module",
+  "packageManager": "yarn@4.17.0",
   "scripts": {
-    "build": "sponsorkit -w 800 --dir . && yarn sponsorkit -w 1800 --name sponsors.wide --dir ."
+    "build": "sponsorkit -w 800 --dir . && sponsorkit -w 1800 --name sponsors.wide --dir ."
   },
   "devDependencies": {
-    "@types/node": "^24.0.0",
-    "sponsorkit": "^17.0.0"
-  },
-  "packageManager": "yarn@4.16.0"
+    "@1stg/tsconfig": "^4.0.0",
+    "@types/node": "^24.13.2",
+    "sponsorkit": "^17.1.1"
+  }
 }
