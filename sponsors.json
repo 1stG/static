@@ -1,5 +1,13 @@
 [
   {
+    "name": "JJ Loneman",
+    "login": "jjloneman",
+    "avatar": "https://avatars.githubusercontent.com/u/16791848?u=c237f84304ec53ec70315def527033d6b46b6663&v=4",
+    "amount": 10,
+    "link": "https://github.com/jjloneman",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
