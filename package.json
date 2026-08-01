@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "packageManager": "yarn@4.17.0",
+  "packageManager": "yarn@4.18.0",
   "scripts": {
     "build": "sponsorkit -w 800 --dir . && sponsorkit -w 1800 --name sponsors.wide --dir ."
   },
