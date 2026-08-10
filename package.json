@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@1stg/tsconfig": "^4.0.0",
-    "@types/node": "^24.13.2",
-    "sponsorkit": "^17.1.1"
+    "@types/node": "^26.2.0",
+    "sponsorkit": "^18.0.0"
   }
 }
