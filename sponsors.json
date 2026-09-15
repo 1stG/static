@@ -1,5 +1,13 @@
 [
   {
+    "name": "fisker Cheung",
+    "login": "fisker",
+    "avatar": "https://avatars.githubusercontent.com/u/172584?v=4",
+    "amount": 5,
+    "link": "https://github.com/fisker",
+    "org": false
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
