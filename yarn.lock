@@ -286,17 +286,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansis@npm:^4.3.1":
+"ansis@npm:^4.4.0":
   version: 4.4.0
   resolution: "ansis@npm:4.4.0"
   checksum: 10c0/5b7a0d61538e21fbee0b5980e5cb97b2933cef46f749e8f8d75af445754d4153267d0c957a65a9d54ef976a949b69eb66dc201c44b0795128d881c2ccacfb310
   languageName: node
   linkType: hard
 
-"cac@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "cac@npm:7.0.0"
-  checksum: 10c0/e9da33cb9f0425546ae92a450d479276f9969a050fe64f5d6fedf058bdd87f22a370797fe1c158e07655fa9fc183749df7cb2037431e3772faa7bee9919fb763
+"cac@npm:^7.1.0":
+  version: 7.1.0
+  resolution: "cac@npm:7.1.0"
+  checksum: 10c0/8bfeef75404cf7d1799abdf6e07b276f3bb646caacdef4d492c64dcff6d4277ec81254612343d041e00ede588fd57117d1a46238b6db18770461dcb2cb1f7487
   languageName: node
   linkType: hard
 
@@ -351,10 +351,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"normalize-url@npm:^9.0.1":
-  version: 9.0.1
-  resolution: "normalize-url@npm:9.0.1"
-  checksum: 10c0/fedcc5247819386494599f487dac2166944999eecfa0efeb3e9a6041aa77ff1656cc1495cbcd9cee202fea3dea51c1e9fc8b7f0fd332e0480b5863f12b60dc33
+"normalize-url@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "normalize-url@npm:10.0.0"
+  checksum: 10c0/86f35a2b2674949f7dcf5737e919f4afb1c951bd9a8f5eccc57308a8d9d432d582791275a31211245d5a35d77903b1a5d2cfecb7a7d052f129b7ca736a53d196
   languageName: node
   linkType: hard
 
@@ -369,7 +369,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p-limit@npm:^7.3.1":
+"p-limit@npm:^7.3.3":
   version: 7.3.3
   resolution: "p-limit@npm:7.3.3"
   dependencies:
@@ -391,7 +391,7 @@ __metadata:
   dependencies:
     "@1stg/tsconfig": "npm:^4.0.0"
     "@types/node": "npm:^26.2.0"
-    sponsorkit: "npm:^18.0.0"
+    sponsorkit: "npm:^19.0.0"
   languageName: unknown
   linkType: soft
 
@@ -404,7 +404,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.35.3":
+"sharp@npm:^0.35.5":
   version: 0.35.5
   resolution: "sharp@npm:0.35.5"
   dependencies:
@@ -494,22 +494,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sponsorkit@npm:^18.0.0":
-  version: 18.0.0
-  resolution: "sponsorkit@npm:18.0.0"
+"sponsorkit@npm:^19.0.0":
+  version: 19.0.0
+  resolution: "sponsorkit@npm:19.0.0"
   dependencies:
-    ansis: "npm:^4.3.1"
-    cac: "npm:^7.0.0"
+    ansis: "npm:^4.4.0"
+    cac: "npm:^7.1.0"
     consola: "npm:^3.4.2"
     d3-hierarchy: "npm:^3.1.2"
-    normalize-url: "npm:^9.0.1"
+    normalize-url: "npm:^10.0.0"
     ofetch: "npm:^1.5.1"
-    p-limit: "npm:^7.3.1"
-    sharp: "npm:^0.35.3"
+    p-limit: "npm:^7.3.3"
+    sharp: "npm:^0.35.5"
     unconfig: "npm:^7.5.0"
   bin:
     sponsorkit: ./dist/cli.mjs
-  checksum: 10c0/e29fb7be06a734cbf22ce6859afa50a919de62b160ad9701034ecbac590760ab6819cc7212413bbcd11258a11cb7b7f752783ac66a9556ee64240fd212dcd53b
+  checksum: 10c0/9fe0638ecb304d6ac458408f6e730d139327e5932d714dcb827ce92e5b3a964aa11265829bc82e36479997815ba86dcacf45b3cbd7332c65b4fcac5ee4aedc87
   languageName: node
   linkType: hard
 
