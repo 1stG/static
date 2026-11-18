@@ -5,12 +5,12 @@ __metadata:
   version: 10
   cacheKey: 10c0
 
-"@1stg/tsconfig@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@1stg/tsconfig@npm:4.0.0"
+"@1stg/tsconfig@npm:^5.0.0":
+  version: 5.1.0
+  resolution: "@1stg/tsconfig@npm:5.1.0"
   peerDependencies:
     typescript: ">=6.0.0"
-  checksum: 10c0/44d7352fe469cff299f41adebd3022cb12d54fd47277835e6a66a3b29a96cf2049b3df396b460e6cb8c0363a16c54b36b25fb6bf4207bb26edec4813493e8c69
+  checksum: 10c0/59ec88b886edd8757e22eda5b77f4c29d88a47eae82f494eef36d37d67bf055404d90fb019d4b798c3109e04b82977db665151a86767442eab497d1fa8939d05
   languageName: node
   linkType: hard
 
@@ -389,7 +389,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@1stg/tsconfig": "npm:^4.0.0"
+    "@1stg/tsconfig": "npm:^5.0.0"
     "@types/node": "npm:^26.2.0"
     sponsorkit: "npm:^19.0.0"
   languageName: unknown
