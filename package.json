@@ -5,7 +5,7 @@
     "build": "sponsorkit -w 800 --dir . && sponsorkit -w 1800 --name sponsors.wide --dir ."
   },
   "devDependencies": {
-    "@1stg/tsconfig": "^4.0.0",
+    "@1stg/tsconfig": "^5.0.0",
     "@types/node": "^26.2.0",
     "sponsorkit": "^19.0.0"
   }
